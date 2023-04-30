@@ -29,3 +29,4 @@ git config --global user.email "Email"
 
 ## 8. Переход на ветку
 С помощью команды ```git checkout <branch name>``` переходим на новую ветку.
+Так же оба эти действия можно совершить командой ```git checkout -b <new branch name>```
