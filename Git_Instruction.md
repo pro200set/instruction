@@ -26,3 +26,6 @@ git config --global user.email "Email"
 
 ## 7. Создание новой ветки
 С помощью команды ```git branch <branch name>``` создаем новую ветку дла работы.
+
+## 8. Переход на ветку
+С помощью команды ```git checkout <branch name>``` переходим на новую ветку.
